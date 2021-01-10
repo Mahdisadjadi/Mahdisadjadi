@@ -41,7 +41,5 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-https://cdn.svgporn.com/logos/python.svg
-
 ### My Stats
 [![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=Mahdisadjadi)](https://github.com/Mahdisadjadi)
