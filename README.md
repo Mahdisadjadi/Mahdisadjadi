@@ -31,19 +31,11 @@ Here are some ideas to get you started:
         <span>Visual Studio Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Github</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
       </td>
     </tr>
   </tbody>
