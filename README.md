@@ -37,6 +37,10 @@ Here are some ideas to get you started:
         <span>Github</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github.svg">
       </td>
+      <td width="25%" align="center">
+        <span>PySpark</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+      </td>
     </tr>
   </tbody>
 </table>
